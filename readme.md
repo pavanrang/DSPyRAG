@@ -1,4 +1,4 @@
-DSPyRAG README
+
 
 This repository contains code implementing a RAG (Retriever-Answer-Generator) system using DSPy, a framework for enhancing language model (LM) performance. Below are the key components and functionalities of this code:
 
